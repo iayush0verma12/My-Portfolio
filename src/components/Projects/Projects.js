@@ -60,17 +60,7 @@ function Projects() {
             />
           </Col>
 
-          <h2 style={{ fontWeight: "900", color: "white" }}>Team-Project</h2>
 
-          // <Col md={4} className="project-card">
-          //   <ProjectCard
-          //     imgPath={suicide}
-          //     isBlog={false}
-          //     title="French Teaching App"
-          //     description="French Teaching Application, user can learn french word and listen to it's pronunciation"
-          //     ghLink="https://github.com/iayush0verma12/frenchTeacherApp"
-          //   />
-          // </Col>
 
           {/* <Col md={4} className="project-card">
             <ProjectCard
